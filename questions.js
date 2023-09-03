@@ -1,1 +1,1 @@
-const path 
+const path = 
