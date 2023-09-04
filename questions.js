@@ -1,3 +1,7 @@
 Import React from 'react'
-const Questions =>()
+const Questions =>(){
+
+
+  }
+  export default Questions;
 const questions =require('questions ');
