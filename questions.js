@@ -1,7 +1,9 @@
 Import React from 'react'
 const Question = () =>{
 return(
-<div></div>
+<div>
+  <span></span>
+  </div>
 
   )}
   export default Questions;
