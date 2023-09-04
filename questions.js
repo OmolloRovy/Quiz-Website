@@ -2,7 +2,7 @@ Import React from 'react'
 const Question = () =>{
 return(
 <div>
-  <span>QUESTIONNAIRE </span>
+  <span>QUESTIONNAIRE QUESTIONS </span>
   </div>
 
   )}
