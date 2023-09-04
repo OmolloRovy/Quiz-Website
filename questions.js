@@ -4,7 +4,7 @@ return(
 <div className ="questions">
   <div className = "left-q">
   <span>QUESTIONNAIRE QUESTIONS </span>
-
+  </div>
   
   </div>
 
