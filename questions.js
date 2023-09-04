@@ -5,7 +5,7 @@ return(
   <div className = "left-q">
   <span>QUESTIONNAIRE QUESTIONS </span>
   </div>
-  <div className="right"></div>
+  <div className="right-q"></div>
   </div>
 
   )}
