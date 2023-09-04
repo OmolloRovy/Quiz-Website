@@ -1,5 +1,5 @@
 Import React from 'react'
-const Questions =>(){
+const Question
 
 
   }
