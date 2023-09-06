@@ -1,2 +1,6 @@
 // GENERAL JSX FILE S
-const 
+const Hero () =>{
+
+
+  
+}
