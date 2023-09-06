@@ -1,8 +1,8 @@
 // GENERAL JSX FILE S
 const Hero () =>{
-  return()
+  return(
 
-
-  
+    
+  )
 }
 export default Hero;
