@@ -4,3 +4,4 @@ const Hero () =>{
 
   
 }
+export de
