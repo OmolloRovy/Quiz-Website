@@ -1,4 +1,4 @@
-import path from 'path';
+Import path from 'path';
 Import React from 'react';
 const Question = () =>{
 return(
