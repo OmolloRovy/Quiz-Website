@@ -1,4 +1,4 @@
-import path from '
+import path from 'path
 
 Import React from 'react'
 const Question = () =>{
