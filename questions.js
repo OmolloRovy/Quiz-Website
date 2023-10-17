@@ -1,4 +1,4 @@
-import 
+import path 
 
 Import React from 'react'
 const Question = () =>{
