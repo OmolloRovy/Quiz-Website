@@ -1,5 +1,5 @@
 import path from 'path';
-Import React from 'react'
+Import React from 'react';
 const Question = () =>{
 return(
 <div className ="questions">
